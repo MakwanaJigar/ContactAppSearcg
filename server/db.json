@@ -5,6 +5,12 @@
       "name": "Jigar Makwana",
       "password": "Jigar@150299",
       "email": "jigar@manamisolutions.com"
+    },
+    {
+      "id": "hello",
+      "name": "hello",
+      "password": "Hello@12345",
+      "email": "hello@gmail.com"
     }
   ],
   "MyContact": [
